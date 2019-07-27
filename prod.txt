@@ -1,0 +1,2 @@
+We are writing this file from Amazon VM
+
